@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# KiCad/EDA temp files
+*.bak
+*.kicad_pcb-bak
+*-backups/
+fp-info-cache
+
+# Large binaries (add your actual firmware hex separately via Releases)
+*.hex
+*.bin
+*.elf
+
+# Excel temp
+~$*.xlsx
