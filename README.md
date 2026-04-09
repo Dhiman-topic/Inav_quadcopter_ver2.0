@@ -56,7 +56,7 @@ Download firmware:  inav\_xxx\_STM32F411CE.zip
 
 `xxx` = firmware version number.
 
-Example: inav\_9.0.1\_STM32F411CE.zip
+Example: inav\_7.1.1\_STM32F411CE.zip
 
 
 
