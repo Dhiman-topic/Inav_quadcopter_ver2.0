@@ -1,0 +1,22 @@
+# Frame — Mechanical Notes
+
+## Material
+- **Alloy**: 6061-T6 Aluminium hollow square bar
+- **Cross-section** : 10sqmm
+- **Thickness**: 1mm
+- **Arm width**: 20mm
+
+## Dimensions
+- **Wheelbase**: 520mm (motor-to-motor diagonal)
+- **Arm length**: ~400mm each
+- **Centre Arm length**: 360mm
+- **Motor mount hole pattern**: 16mm × 19mm (2212 motor standard)
+
+
+## Weight (estimated)
+| Part              | Weight  |
+|-------------------|---------|
+| 4× Arms           | ~160g   |
+| Hardware (screws) | ~20g    |
+| **Total frame**   | **~180g** |
+

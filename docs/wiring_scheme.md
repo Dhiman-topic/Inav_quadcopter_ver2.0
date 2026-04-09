@@ -1,6 +1,4 @@
-# Wiring Diagram
 
-> Add your actual wiring diagram image here: `../images/wiring_diagram.png`
 
 ## Connection Summary
 
@@ -16,7 +14,7 @@
                     ┌─────────────────┼──────────────────────┐
                     │                 │                      │
               [M10 Ultra GPS]  [GEPrc ELRS RX]    [1.2W 5.8G VTX]
-               UART2 TX/RX      UART1 TX/RX        5V + GND + Video
+               UART1 TX/RX      UART2 TX/RX        5V + GND + Video
 ```
 
 ## Notes
