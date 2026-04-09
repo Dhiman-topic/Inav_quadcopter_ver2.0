@@ -150,7 +150,8 @@ https://github.com/iNavFlight/inav/wiki
 
 # 📜 License
 
-This project is open-source and intended to support the INAV ecosystem.
+This project is **licensed under the GNU General Public License** and is intended to support the INAV ecosystem.
+
 
 \---
 
